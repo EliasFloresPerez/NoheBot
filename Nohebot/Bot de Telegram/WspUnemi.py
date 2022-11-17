@@ -22,7 +22,7 @@ INPUT_TEXT = 0
 class NoheBot:
 	#Atributos
 	if True:
-		token = '5568451985:AAHIANb-W1Shq_qe8DIwB4jrLUi1LIXEglU'
+		token = "token"
 	
 	method = 'sendMessage'
 	updater = Updater(token, use_context=True)
