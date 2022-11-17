@@ -10,6 +10,8 @@ nuestro grupo quedo en primer lugar en la feria de ciencias y tecnologias el 2 d
 
 #Output del programa
 
+![](https://github.com/EliasFloresPerez/NoheBot/blob/main/Nohebot/output2.jpeg)
+
 ![](https://github.com/EliasFloresPerez/NoheBot/blob/main/Nohebot/capturedd.jpeg)
 
 
