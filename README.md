@@ -1,4 +1,4 @@
-# NoheBot
+# NoheBot tu asistente del pregrado virttual
 
 
 Un asistente virtual que ayuda a los estudiantes de la universidad estatal de milagro con el aviso de sus actividades mediante mensaje de telegram ,
